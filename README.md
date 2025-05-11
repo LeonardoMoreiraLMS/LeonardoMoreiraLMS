@@ -29,6 +29,7 @@ Bem-vindo ao **PortfolioHUB**, o repositório de projetos acadêmicos e pessoais
 - [LinkedIn](https://www.linkedin.com/in/leonardo-moreira-49233a365/)
 - [GitHub](https://github.com/LeonardoMoreiraLMS)
 - [Email](leonardomoreiras1337@gmail.com)
+- [GitHubPage](https://leonardomoreiralms.github.io/githubpage/)
 
 
 > Repositório em constante evolução. Feedbacks e colaborações são bem-vindos!
